@@ -36,3 +36,6 @@ Output: Sci/Tech
 
 Input: "Pakistan wins T20 cricket match"
 Output: Sports
+## 📊 Results
+- **Accuracy:** 91%
+- **Weighted F1 Score:** 91%
