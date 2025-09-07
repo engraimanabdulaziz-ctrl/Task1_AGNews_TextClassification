@@ -22,12 +22,9 @@ Steps followed:
 ---
 
 ## 📊 Results
-- **Accuracy:** XX%  
-- **Weighted F1 Score:** XX%  
+- **Accuracy:** 91%
+- **Weighted F1 Score:** 91%
 
-(Replace XX with your results from `classification_report`)
-
----
 
 ## 💻 Example Predictions
 ```python
@@ -35,7 +32,4 @@ Input: "Microsoft announces new AI breakthrough"
 Output: Sci/Tech
 
 Input: "Pakistan wins T20 cricket match"
-Output: Sports
-## 📊 Results
-- **Accuracy:** 91%
-- **Weighted F1 Score:** 91%
+Output: Sport
